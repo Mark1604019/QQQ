@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 AAA
 BBB
+=======
+>>>>>>> parent of 27477ed... Add1
